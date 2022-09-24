@@ -1,0 +1,25 @@
+#color{
+    color:red;
+}
+#rtol{
+    direction:ltr;
+}
+#spacing{
+    word-spacing: 8px;
+}
+#transform{
+    text-transform: lowercase;
+    text-transform: capitalize;
+    text-transform: uppercase;
+}
+#align{
+    text-align: left;
+    text-align: justify;
+    text-align: center;
+}
+#shadow{
+    text-shadow:4px 4px 8px rgb(12, 46, 240);
+}
+#decoration{
+    text-decoration:dotted;
+}

@@ -1,0 +1,56 @@
+#image{
+    width: 300px;
+    height: 250px;
+    top: 50px;
+    margin-left: 10px;
+    border: 2px double rgb(59, 54, 54);
+    border-top-color: violet;
+    border-left-color: yellow;
+    border-right-color:blue;
+    border-bottom-color:red;
+    border-width: 30px;
+}
+#home{
+    float: left;
+    width: 78px;
+    height: 4px;
+    margin-top: 7px;
+    margin-left: 15px;
+    position: relative;
+}
+  a:hover{
+    color: blueviolet;
+  }
+#about{
+    float: left;
+    width:78px;
+    height: 20px;
+    margin-top: 7px;
+    margin-left:-11px;
+}
+a:hovere{
+  color:red;
+}
+#contact{
+    float: left;
+    width:78px;
+    height: 20px;
+    margin-top: 8px;
+    margin-left:-33px;
+}
+a:hover{
+    color: yellow;
+}
+#service{
+    float:left;
+    width:78px;
+    height: 20px;
+    margin-top: 8px;
+    margin-left:-33px
+}
+a:hover{
+  color:blue;
+}
+
+
+
